@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-base-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+   "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgeorgi/tailwind-base-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgeorgi/tailwind-base-template/issues"
+  },
+  "homepage": "https://github.com/iamgeorgi/tailwind-base-template#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
