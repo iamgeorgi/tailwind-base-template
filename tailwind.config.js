@@ -7,7 +7,10 @@ module.exports = {
         secondary: {
           100: '#E2E2D5',
           200: '#888883'
-        }
+        },
+        bgPrimary: '#3F65E0',
+        bgSecondary: '#3751BF',
+        borderPrimary: '#5BC7F5'
       },
       fontFamily: {
         body: ['Nunito']
