@@ -4,7 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.card{
+.book-card{
     @apply bg-white rounded overflow-hidden shadow-md relative hover:shadow-lg;
 }
 
